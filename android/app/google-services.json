@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092502497853",
+    "firebase_url": "https://paranu-534f7.firebaseio.com",
+    "project_id": "paranu-534f7",
+    "storage_bucket": "paranu-534f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092502497853:android:96bcfd493af00277",
+        "android_client_info": {
+          "package_name": "com.paranu_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092502497853-e8l4s2eoq0jsskge16j1nbpk0mgcgpv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OQ5Ao8Kh0xec2KPUnP7e4tUlePI7Q70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092502497853-e8l4s2eoq0jsskge16j1nbpk0mgcgpv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092502497853-o0g6nt9egtrtqm9nvbeakfkffsl4c60h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.se.paranu.app",
+                "app_store_id": "1447649865"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

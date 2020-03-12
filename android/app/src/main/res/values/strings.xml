@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paranu</string>
+    <string name="facebook_app_id">921140888242142</string>
+    <string name="fb_login_protocol_scheme">fb921140888242142</string>
+</resources>
